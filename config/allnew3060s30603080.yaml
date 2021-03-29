@@ -1,0 +1,31 @@
+---
+refresh_interval: 2 # seconds
+max_price: 999 # dollars/euros/etc
+urls:
+  - https://www.bestbuy.com/site/nvidia-geforce-rtx-3060-ti-8gb-gddr6-pci-express-4-0-graphics-card-steel-and-black/6439402.p?acampID=0&cmp=RMX&loc=Hatch&ref=198&skuId=6439402
+  - https://www.newegg.com/gigabyte-geforce-rtx-3060-ti-gv-n306teagle-8gd/p/N82E16814932379?Item=N82E16814932379
+  - https://www.bestbuy.com/site/evga-nvidia-geforce-rtx-3060-ti-xc-gaming-8gb-gddr6-pci-express-4-0-graphics-card/6444445.p?acampID=0&cmp=RMX&loc=Hatch&ref=198&skuId=6444445
+  - https://www.newegg.com/evga-geforce-rtx-3060-ti-08g-p5-3663-kr/p/N82E16814487535?Item=N82E16814487535
+  - https://gethatch.com/wtbonline/merch/38986/go?region=US&affiliate_id=52439&prod_id=1070352237&core_id=100610083
+  - https://www.newegg.com/gigabyte-geforce-rtx-3060-ti-gv-n306teagle-oc-8gd/p/N82E16814932378?Item=N82E16814932378
+  - https://www.bestbuy.com/site/evga-nvidia-geforce-rtx-3060-ti-ftw3-gaming-8gb-gddr6-pci-express-4-0-graphics-card/6444449.p?acampID=0&cmp=RMX&loc=Hatch&ref=198&skuId=6444449
+  - https://www.newegg.com/evga-geforce-rtx-3060-ti-08g-p5-3667-kr/p/N82E16814487537?Item=N82E16814487537&quicklink=true
+  - https://gethatch.com/wtbonline/merch/38986/go?region=US&affiliate_id=52439&prod_id=1070352267&core_id=100610085
+  - https://www.newegg.com/gigabyte-geforce-rtx-3060-ti-gv-n306tgaming-oc-8gd/p/N82E16814932377?Item=N82E16814932377
+  - https://www.newegg.com/asus-geforce-rtx-3060-ti-ko-rtx3060ti-o8g-gaming/p/N82E16814126474?Item=N82E16814126474
+  - https://www.newegg.com/msi-geforce-rtx-3060-ti-rtx-3060-ti-ventus-2x-oc/p/N82E16814137612?Item=N82E16814137612
+  - https://www.newegg.com/gigabyte-geforce-rtx-3060-ti-gv-n306tgamingoc-pro-8gd/p/N82E16814932376?Item=N82E16814932376
+  - https://www.newegg.com/asus-geforce-rtx-3060-ti-tuf-rtx3060ti-o8g-gaming/p/N82E16814126471?Item=N82E16814126471
+  - https://www.newegg.com/gigabyte-geforce-rtx-3060-ti-gv-n306taorus-m-8gd/p/N82E16814932375?Item=N82E16814932375&quicklink=true
+  - https://www.newegg.com/msi-geforce-rtx-3060-ti-rtx-3060-ti-gaming-x-trio/p/N82E16814137611?Item=N82E16814137611
+  - https://www.newegg.com/msi-geforce-rtx-3080-rtx-3080-ventus-3x-10g/p/N82E16814137600?cm_mmc=vendor-nvidia&u1=s1616988876116m7ksa52439
+  - https://www.newegg.com/gigabyte-geforce-rtx-3060-gv-n3060eagle-12gd/p/N82E16814932399?Item=N82E16814932399
+  - https://www.newegg.com/zotac-geforce-rtx-3060-zt-a30600e-10m/p/N82E16814500509?Item=N82E16814500509
+  - https://www.newegg.com/msi-geforce-rtx-3060-rtx-3060-ventus-2x-12g/p/N82E16814137638?Item=N82E16814137638
+  - https://www.microcenter.com/product/633840/msi-nvidia-geforce-rtx-3060-ventus-2x-overclocked-dual-fan-12gb-gddr6-pcie-40-graphics-card
+  - https://www.newegg.com/msi-geforce-rtx-3060-rtx-3060-ventus-2x-12g-oc/p/N82E16814137632
+  - https://gethatch.com/wtbonline/merch/38986/go?region=US&affiliate_id=52439&prod_id=964351939&core_id=100524145
+  - https://www.newegg.com/evga-geforce-rtx-3080-10g-p5-3881-kr/p/N82E16814487522?cm_mmc=vendor-nvidia&u1=s1616988876116m7ksa52439
+  - https://gethatch.com/iceleads_rest/merch/38986/go?region=US&affiliate_id=52439&prod_id=960147233&core_id=100523501
+  - https://www.newegg.com/asus-geforce-rtx-3080-tuf-rtx3080-10g-gaming/p/N82E16814126453?cm_mmc=vendor-nvidia&u1=s1616988876116m7ksa52439
+...
