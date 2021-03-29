@@ -1,0 +1,9 @@
+---
+refresh_interval: 2 # seconds
+max_price: 999 # dollars/euros/etc
+urls:
+  - https://www.amd.com/en/direct-buy/5458372800/us
+  - https://www.amd.com/en/direct-buy/5458373400/us
+  - https://www.amd.com/en/direct-buy/5458372200/us
+  - https://www.amd.com/en/direct-buy/5496921400/us
+...
